@@ -25,4 +25,7 @@ This includes:
 - Services section
 - Why Choose Us section
 - Visual hierarchy & spacing standards
+- ## Assets
+- Icons from Flaticon
+
 
