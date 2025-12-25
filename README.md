@@ -27,5 +27,9 @@ This includes:
 - Visual hierarchy & spacing standards
 - ## Assets
 - Icons from Flaticon
+- ## Contact
+Email: mansooreabd87@gmail.com
+
+
 
 
